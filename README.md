@@ -1,4 +1,4 @@
-# Artificial-Intelligence-
+# Artificial-Intelligence
 This is a repository which provides codes and solutions to the problems generally asked in the subject of Artificial Intelligence in College and Universities.
 The common problem in the early stages of AI is the Water-Jug Problem.
 Here's a description to how to solve this problem.
